@@ -1,0 +1,31 @@
+/*For reference*/
+
+/*BACKGROUND*/
+background-color
+
+/*FOREGROUND*/
+color
+
+/*FONTS*/
+font-weight
+    ~ A number 100, 200, 300 ... 900
+    ~ 400: normal
+    ~ 700: bold
+font-style
+    ~ normal or italic
+font-family
+    ~ A comma seperated list of font types
+font-size
+    ~ Can be percent, pixel or em (but please use em)
+line-height
+    ~ Adjusts the height of line using mutliples, which helps to space out the document more (ex 1.5)
+
+/*TEXT/TYPE */
+text-align
+    ~ left, right, center, justify
+text-transform
+    ~ lowercase, uppercase , capitalize
+text-decoration
+    ~ underline, line-through, none
+
+/*for extra reference: https://www.notion.so/Introduction-to-web-GUIs-and-HTML-01894c323ade481885c938cb49a218df
